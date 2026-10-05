@@ -1,4 +1,3 @@
-# shiftpulse-deskless-saas
 # ⚡ ShiftPulse — Deskless Workforce Communication & Task SaaS
 
 [![React](https://img.shields.io/badge/React-18.x-blue.svg)](https://reactjs.org/)
